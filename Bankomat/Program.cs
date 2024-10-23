@@ -40,7 +40,6 @@ class Program
                 summa %= birliklar[i];
             }
 
-            // Natijani chiqarish
             Console.WriteLine("Pulingizni quyidagicha bo'lish mumkin:");
             for (int i = 0; i < birliklar.Length; i++)
             {
